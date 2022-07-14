@@ -1,0 +1,6 @@
+<root>
+    <item name='javafx.scene.control.MenuBar javafx.collections.ObservableList&lt;javafx.scene.control.Menu&gt; getMenus()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>
